@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    padding:0;
+    background:#8fd3ff;
+    font-family:Arial,sans-serif;
+    text-align:center;
+}
+
+h1{
+    color:#083d5d;
+    margin-top:15px;
+}
+
+p{
+    color:#0a577f;
+}
+
+canvas{
+    border:4px solid #0b567e;
+    border-radius:15px;
+    background:linear-gradient(#89d8ff,#c7f3ff);
+    margin-top:10px;
+}
